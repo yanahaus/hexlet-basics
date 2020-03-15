@@ -1,2 +1,1 @@
-# hexlet-basics
-My first repository on GitHub
+my first change
